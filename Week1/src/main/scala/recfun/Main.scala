@@ -11,7 +11,7 @@ object Main {
   }
 
   /**
-   * Exercise 1
+   * Exercise 1 - to do
    */
     def pascal(c: Int, r: Int): Int = ???
   
